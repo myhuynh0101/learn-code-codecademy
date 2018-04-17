@@ -1,0 +1,16 @@
+email: huumy010194@gmail.com
+pass: tonyhuynh1
+username: tonyhuynh
+
+- Learn js and other programming language:
+
+https://www.freecodecamp.org/
+
+https://codefights.com/
+
+https://www.codecademy.com
+username: tonyhuynh1
+
+- Learn html5&css3:
+
+https://www.theodinproject.com/courses/html5-and-css3
